@@ -1,7 +1,7 @@
 # Awesome-Note-Taking-Organization
 # Awesome-Note-Taking-Organization
 
-# Top Note Taking & Organization Tools Ecosystem
+## Top Note Taking & Organization Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on End-to-End Encryption, Self-Hosted Sync & Local-First Data Ownership*  
